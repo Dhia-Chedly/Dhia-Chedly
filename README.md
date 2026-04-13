@@ -1,7 +1,7 @@
 # Hi, I'm Dhia
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&tanimation=fadeIn&fontAlignY=38&desc=Building%20reliable%20pipelines,%20platforms,%20and%20analytics%20systems&descSize=16&descAlignY=58" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0f172a,100:2563eb" alt="Header banner" />
 </p>
 
 ## About me
