@@ -1,7 +1,7 @@
 # Hi, I'm Dhia
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0f172a,100:2563eb" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0f172a,100:2563eb" alt="Header banner" />
 </p>
 
 ## About me
