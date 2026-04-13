@@ -54,8 +54,8 @@ I design and build reliable data systems that turn raw data into trusted insight
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gittt&show_icons=true&theme=transparent&title_color=2563eb&text_color=334155&icon_color=0ea5e9&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gittt&layout=compact&theme=transparent&title_color=2563eb&text_color=334155&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhia-chedly&show_icons=true&theme=transparent&title_color=2563eb&text_color=334155&icon_color=0ea5e9&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhia-chedly&layout=compact&theme=transparent&title_color=2563eb&text_color=334155&hide_border=true" alt="Top languages" />
 </p>
 
 
