@@ -1,9 +1,5 @@
 # Hi, I'm Dhia
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0f172a,100:2563eb" alt="Header banner" />
-</p>
-
 ## About me
 
 I design and build reliable data systems that turn raw data into trusted insights.
@@ -58,6 +54,3 @@ I design and build reliable data systems that turn raw data into trusted insight
 - Email: `dhiaedinchedly@gmail.com`
 - LinkedIn: `https://linkedin.com/in/dhia-chedly`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:2563eb" alt="Footer banner" />
-</p>
