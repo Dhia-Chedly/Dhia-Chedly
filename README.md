@@ -1,13 +1,7 @@
 # Hi, I'm Dhia
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Data%20Engineering%20Portfolio&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Building%20reliable%20pipelines,%20platforms,%20and%20analytics%20systems&descSize=16&descAlignY=58" alt="Header banner" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/gittt"><img src="https://img.shields.io/badge/GitHub-gittt-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" /></a>
-  <a href="https://linkedin.com/in/dhia-chedly"><img src="https://img.shields.io/badge/LinkedIn-dhia--chedly-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
-  <a href="mailto:dhiaedinchedly@gmail.com"><img src="https://img.shields.io/badge/Email-contact_me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&tanimation=fadeIn&fontAlignY=38&desc=Building%20reliable%20pipelines,%20platforms,%20and%20analytics%20systems&descSize=16&descAlignY=58" alt="Header banner" />
 </p>
 
 ## About me
@@ -54,8 +48,8 @@ I design and build reliable data systems that turn raw data into trusted insight
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhia-chedly&show_icons=true&theme=transparent&title_color=2563eb&text_color=334155&icon_color=0ea5e9&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhia-chedly&layout=compact&theme=transparent&title_color=2563eb&text_color=334155&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhia-chedly&show_icons=true&theme=transparent&title_color=2563eb&text_color=334155&icon_color=0ea5e9&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhia-chedly&layout=compact&theme=transparent&title_color=2563eb&text_color=334155&hide_border=true" alt="Top languages" />
 </p>
 
 
