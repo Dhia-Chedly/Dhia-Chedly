@@ -8,33 +8,23 @@ I design and build reliable data systems that turn raw data into trusted insight
 - I care about data quality, observability, and scalable architecture.
 - I like working on both batch and real-time data workflows.
 - I am currently learning: `Information Technology & Business Analytics`.
-- Ask me about: `Data pipelines`, `SQL optimization`, `Cloud data platforms`.
-
-## Data engineering stack
+- 
+## Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776ab" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169e1" alt="SQL" />
   <img src="https://img.shields.io/badge/Bash-0f172a?style=flat-square&logo=gnubash&logoColor=4eaa25" alt="Bash" />
-  <img src="https://img.shields.io/badge/Scala-0f172a?style=flat-square&logo=scala&logoColor=dc322f" alt="Scala" />
   <img src="https://img.shields.io/badge/Apache%20Spark-0f172a?style=flat-square&logo=apachespark&logoColor=e25a1c" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/PySpark-0f172a?style=flat-square&logo=apache&logoColor=e25a1c" alt="PySpark" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-0f172a?style=flat-square&logo=apacheairflow&logoColor=017cee" alt="Apache Airflow" />
   <img src="https://img.shields.io/badge/dbt-0f172a?style=flat-square&logo=dbt&logoColor=ff694b" alt="dbt" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-0f172a?style=flat-square&logo=apachekafka&logoColor=ffffff" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/Apache%20Hadoop-0f172a?style=flat-square&logo=apachehadoop&logoColor=ffcc00" alt="Apache Hadoop" />
-  <img src="https://img.shields.io/badge/Snowflake-0f172a?style=flat-square&logo=snowflake&logoColor=29b5e8" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/BigQuery-0f172a?style=flat-square&logo=googlebigquery&logoColor=4285f4" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/Amazon%20Redshift-0f172a?style=flat-square&logo=amazonredshift&logoColor=8c4fff" alt="Amazon Redshift" />
-  <img src="https://img.shields.io/badge/Databricks-0f172a?style=flat-square&logo=databricks&logoColor=ff3621" alt="Databricks" />
   <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169e1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479a1" alt="MySQL" />
   <img src="https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonaws&logoColor=ff9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/GCP-0f172a?style=flat-square&logo=googlecloud&logoColor=4285f4" alt="GCP" />
-  <img src="https://img.shields.io/badge/Azure-0f172a?style=flat-square&logo=microsoftazure&logoColor=0078d4" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ed" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-0f172a?style=flat-square&logo=kubernetes&logoColor=326ce5" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-0f172a?style=flat-square&logo=terraform&logoColor=844fba" alt="Terraform" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-0f172a?style=flat-square&logo=githubactions&logoColor=2088ff" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Power%20BI-0f172a?style=flat-square&logo=powerbi&logoColor=f2c811" alt="Power BI" />
   <img src="https://img.shields.io/badge/Tableau-0f172a?style=flat-square&logo=tableau&logoColor=e97627" alt="Tableau" />
